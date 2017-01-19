@@ -9,7 +9,7 @@
  *
  * @package    WHMCS
  * @author     Indonesia Webhoster Community <support@padjajaranhost.com>
- * @copyright  Copyright (c) Jawanet 2016
+ * @copyright  Copyright (c) padjajaran hosting 2016
  * @version    $Id$
  * @link       http://padjajaranhost.com/
  */
